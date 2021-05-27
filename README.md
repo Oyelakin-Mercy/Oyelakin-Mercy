@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oyelakin-Mercy
 - 👀 I’m interested in Front-End web development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Fronend projects
+- 💞️ I’m looking to collaborate on web projects
 
 
 <!---
